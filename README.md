@@ -1,6 +1,10 @@
 # lab04--Team_TEAM-
-## Who did what
+
+## Who Did What
 
 | Member | GitHub Username | File |
 |---|---|---|
-| Hein Lwin Oo | Bruce-Oo | test_withdrawal.py
+| Kaung Thant | kaungthant79 | conftest.py |
+| NayShinThant | Gzilla-ST | test_deposit.py |
+| Phyo Thura Chit | Kpthura | test_teardown.py |
+| Hein Lwin Oo | Bruce-Oo | test_withdraw.py |
